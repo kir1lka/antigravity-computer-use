@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.exe
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.jpg
+*.png
